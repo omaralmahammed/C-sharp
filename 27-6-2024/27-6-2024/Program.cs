@@ -99,22 +99,59 @@ namespace _27_6_2024
                 x = x + "*";
             }
 
+
+
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    for (int j = 1; j <= 10 - i; j++)
+            //    {
+            //        Console.Write(" ");
+            //    }
+
+            //    for (int k = 1; k <= i; k++)
+            //    {
+            //        Console.Write("*");
+            //    }
+            //    Console.WriteLine(" ");
+            //}
+
             ////////// Write a program in C# to make such a pattern like right angle triangle with number increased by 1.//////////
 
-            int row = 1;
-            int num = 1;
-            while (row <= 4)
+            int raws = 5;
+            int counter = 0;
+            for (int i = 0; i < raws; i++)
             {
-                int j = 1;
-                while (j <= row)
+                for (int s = 0; s < raws - i; s++)
                 {
-                    Console.Write($"{num} ");
-                    j++;
-                    num++;
+                    Console.Write(" ");
                 }
-                Console.WriteLine("\n");
-                row++;
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write($"{counter} ");
+                    counter++;
+                }
+                Console.WriteLine();
             }
+
+            ///////////////////////////////////////////////////////////////////////////
+
+            //while (row <= 7)
+            //{
+
+
+            //    int j = 1;
+            //    while (j <= row)
+            //    {
+            //        Console.Write($"{num} ");
+            //        j++;
+            //        num++;
+            //    }
+
+
+
+            //    Console.WriteLine("\n");
+            //    row++;
+            //}
 
         }
     }
