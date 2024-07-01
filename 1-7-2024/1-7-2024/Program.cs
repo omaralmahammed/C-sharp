@@ -24,7 +24,7 @@ namespace _1_7_2024
 
             Console.WriteLine("-------------------------------------------------------------------");
 
-            Car.BMW bmw = new Car.BMW("X6", 2022, 80000, "Blue", "20-2325");
+            BMW bmw = new BMW("X6", 2022, 80000, "Blue", "20-2325");
 
             Car.engine();
 

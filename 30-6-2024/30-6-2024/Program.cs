@@ -10,6 +10,7 @@ namespace _30_6_2024
     {
         static void Main(string[] args)
         {
+            task.cube(3);
 
             ////Write a function in C# that accept 10 numbers and return sum and average.
             Console.WriteLine("Enter 10 numbers to calculate their Total and Average:\n");
