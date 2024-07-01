@@ -17,11 +17,21 @@ namespace _30_6_2024
         public int ID;
         public string Phone;
 
+        public Informations()
+        {
+            Age = 18;
+            Gender = "Male";
+            Name = "Omar";
+            Email = "O@yahoo.com";
+            ID = 123456987;
+            Phone = "07978787878";
+        }
+
         public Informations(int age, string gender, string name, string email, int id, string phone)
         {
             if (age >= 18 && age <= 60)
             {
-                this.Age = age;
+                Age = age;
             }
             else
             {
@@ -29,16 +39,19 @@ namespace _30_6_2024
             }
 
 
-            Gender = gender ;
+            Gender = gender;
             Name = name;
             Email = email;
             ID = id;
 
             if (phone.StartsWith("077") || phone.StartsWith("078") || phone.StartsWith("079"))
+            {
                 Phone = phone;
+            }
             else
+            {
                 throw new ArgumentException("Phone number must start with 077, 078, or 079.");
-
+            }
         }
 
         public void Display()

@@ -36,6 +36,8 @@ namespace _30_6_2024
         }
 
 
+        //Write a program in C# return only numbers in the years array greater than 1950.
+
         public static int[] GetYears(int[] years)
         {
             int[] greaterYears = new int[years.Length];
@@ -50,6 +52,10 @@ namespace _30_6_2024
 
             return greaterYears;
         }
+
+
+
+        // Create a function that takes the age in years and returns the age in days
 
         public static int ConvertToDays(int age)
         {
