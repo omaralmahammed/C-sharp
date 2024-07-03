@@ -82,7 +82,7 @@ namespace _30_6_2024
 
             // Create class that contain the following field: Age, gender, name, email, id, phone
 
-            Informations omarInformation = new Informations(18, "male", "Omar", "omar@yahoo.com", 123321, "0799999999");
+            Informations omarInformation = new Informations(16, "male", "Omar", "omar@yahoo.com", 123321, "0799999999");
 
             //Informations omarInformation = new Informations();
 

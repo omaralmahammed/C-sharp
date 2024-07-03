@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\C-Sharp\\1-7-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BB0DDF8-857B-425C-8E79-8B4F40443C8C}|1-7-2024\\1-7-2024.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\1-7-2024\\1-7-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BB0DDF8-857B-425C-8E79-8B4F40443C8C}|1-7-2024\\1-7-2024.csproj|c:\\users\\orange\\desktop\\c-sharp\\1-7-2024\\1-7-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB0DDF8-857B-425C-8E79-8B4F40443C8C}|1-7-2024\\1-7-2024.csproj|solutionrelative:1-7-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB0DDF8-857B-425C-8E79-8B4F40443C8C}|1-7-2024\\1-7-2024.csproj|c:\\users\\orange\\desktop\\c-sharp\\1-7-2024\\1-7-2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BB0DDF8-857B-425C-8E79-8B4F40443C8C}|1-7-2024\\1-7-2024.csproj|C:\\Users\\Orange\\Desktop\\C-Sharp\\1-7-2024\\1-7-2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB0DDF8-857B-425C-8E79-8B4F40443C8C}|1-7-2024\\1-7-2024.csproj|solutionrelative:1-7-2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "1-7-2024\\Program.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\1-7-2024\\1-7-2024\\Program.cs",
               "RelativeToolTip": "1-7-2024\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABCAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T17:25:34.507Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "1-7-2024\\Car.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\C-Sharp\\1-7-2024\\1-7-2024\\Car.cs",
               "RelativeToolTip": "1-7-2024\\Car.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDMAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T18:52:57.426Z",
               "EditorCaption": ""
